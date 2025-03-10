@@ -74,6 +74,7 @@ System.out.println("В школе, где " +totalklass+ " классов,нуж
 
         System.out.println("Задание 8");
 
+
         int moneyMasha = 67760; //текущая зп
         int moneyDenis = 83690;
         int moneyKristina = 76230;
